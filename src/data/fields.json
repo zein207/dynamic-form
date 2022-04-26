@@ -1,0 +1,39 @@
+{
+    "fields": [
+        {
+            "name": "firstName",
+            "label": "First Name",
+            "value": "",
+            "type": "text",
+            "isActive": false
+        },
+        {
+            "name": "email",
+            "label": "Email",
+            "value": "",
+            "type": "email",
+            "isActive": false
+        },
+        {
+            "name": "password",
+            "label": "Password",
+            "value": "",
+            "type": "password",
+            "isActive": false
+        },
+        {
+            "name": "checkbox",
+            "label": "Checkbox",
+            "value": "false",
+            "type": "checkbox",
+            "isActive": false
+        },
+        {
+            "name": "range",
+            "label": "Range",
+            "value": "",
+            "type": "range",
+            "isActive": false
+        }
+    ]
+}
